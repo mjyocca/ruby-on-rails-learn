@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+## Tutorial
+
+Ran
+
+```bash
+rails generate scaffold post title:string content:text
+```
