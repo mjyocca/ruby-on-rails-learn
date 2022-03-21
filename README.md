@@ -31,3 +31,9 @@ Ran
 ```bash
 rails generate scaffold post title:string content:text
 ```
+
+Run migrations to setup the db
+
+```bash
+rails db:migrate
+```
